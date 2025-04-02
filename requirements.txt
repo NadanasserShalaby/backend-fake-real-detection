@@ -1,9 +1,9 @@
 fastapi
 uvicorn
 PyPDF2
-opencv-python
 numpy
-Pillow
-piexif
-pydub
+opencv-python
 librosa
+pillow
+pydub
+piexif
